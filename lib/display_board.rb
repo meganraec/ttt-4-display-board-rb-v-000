@@ -19,6 +19,7 @@ display_board(board)
 board[0] = "O"
 display_board(board)
 
+board = Array.new(9, " ")
 board[0] = "X"
 board[1] = "X"
 board[2] = "X"
